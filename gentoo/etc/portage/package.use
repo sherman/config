@@ -1,0 +1,88 @@
+media-video/vlc    cdda cddb  dvd mod optimisememory shout skins stream truetype vorbis
+
+dev-lang/php       json ldap memlimit session postgres apache2 cgi cli iconv gd xml2 pcntl posix sockets nls pcre jpeg png sysvipc simplexml xml curl curlwrappers hash reflection mysql xmlreader fastbuild mysqli xmlrpc xsl unicode spl truetype soap calendar pdo tokenizer -gdbm crypt -threads -readline mcrypt
+
+
+#=dev-lang/php-4*                cgi force-cgi-redirect -apache2 -apache memlimit session postgres iconv gd-external xml2 pcntl posix sockets nls pcre jpeg png sysvipc simplexml xml curl hash reflection mysql mysqli ldap xmlreader fastbuild xsl -gdbm -crypt -soap -threads unicode expat
+
+media-video/kaffeine  vorbis
+
+www-servers/nginx debug fastcgi
+
+dev-libs/apr-util -postgres
+dev-util/kdevelop haskell php sql subversion ruby java cmake
+
+net-print/bjfilter ip1500
+
+
+media-libs/xine-lib  X alsa gtk ipv6 nls opengl oss win32codecs xinerama a52 aac -aalib (-altivec) -arts -debug -directfb -dts dvd dxr3 -esd -fbcon flac -gnome -imagemagick -jack -libcaca -mad -mmap -mng -modplug -musepack -pulseaudio real -samba -sdl -speex -theora truetype -v4l vcd -vidix vorbis -wavpack xcb -xv -xvmc
+
+media-video/mplayer X alsa -gif iconv -jpeg mmx mp3 opengl oss -png quicktime unicode win32codecs x264 xinerama xvid 3dnow 3dnowext a52 aac aalib -amrnb -amrwb -arts -bidi -bindist -bl cddb -cdio -cdparanoia cpudetection -custom-cflags -debug -dga -directfb -doc -dts -dv -dvb dvd -enca -encode -esd -fbcon -ftp -ggi -jack -joystick -ladspa -libcaca -lirc -live livecd -lzo -mad -md5sum -mmxext mp2 -musepack -nas -nemesi -openal -pnm -pulseaudio radio -rar -real -rtc -samba -sdl -speex -srt -sse -sse2 -ssse3 svga -teletext -tga -theora -tivo -truetype -v4l -v4l2 -vidix vorbis -xanim -xv -xvmc -zoran
+
+x11-libs/qt		dbus accessibility
+dev-util/subversion  apache2 -dso java -kde
+
+dev-util/git	subversion curl
+
+www-servers/apache	-threads
+
+media-sound/amarok	mtp musicbrainz
+
+dev-libs/boost	doc tools mpi
+
+kde-base/kopete  crypt kdeenablefinal ssl xinerama addbookmarks -alias -arts -autoreplace connectionstatus -contactnotes -debug -gadu -groupwise -highlight history irc -jingle -kdehiddenvisibility -latex -netmeeting nowlistening -sametime -slp -sms statistics -texteffect -translator -webpresence -winpopup -xscreensaver -yahoo oscar
+
+app-text/poppler-bindings	qt3
+
+net-p2p/amule	gtk
+
+net-fs/samba	-cups -ipv6 -python
+
+app-text/djvu	qt3
+dev-db/apgdiff doc source
+
+net-dialup/rp-pppoe -X
+
+app-portage/layman git subversion test
+
+dev-lang/swig  perl python doc java php ruby
+
+app-office/openoffice cups kde opengl pam -binfilter -dbus -debug -eds -gnome -gstreamer -gtk java -ldap -mono -nsplugin -odk -templates
+
+dev-util/kdevplatform git subversion
+
+app-cdr/k3b dvd sndfile
+
+x11-libs/qt-sql	mysql
+
+dev-python/PyQt4 webkit
+dev-python/qscintilla-python	qt4
+
+x11-libs/qt-gui	mng
+
+www-plugins/adobe-flash	-32bit
+
+app-editors/emacs  X alsa gif jpeg png xpm source spell gtk
+
+dev-db/mysql	embedded
+
+app-editors/jedit	doc
+
+dev-util/netbeans
+
+dev-util/eclipse-sdk 
+dev-java/eclipse-ecj	
+
+x11-libs/qscintilla qt4
+x11-libs/cairo svg
+
+sys-devel/gcc 	libffi gcj
+#x11-libs/qt-core qt3support
+#x11-libs/qt-gui qt3support
+#x11-libs/qt-sql qt3support
+dev-python/PyQt4 svg
+dev-python/PyQt4 sql
+x11-libs/cairo svg
+www-client/opera qt-static
+virtual/poppler lcms
+net-misc/curl openssl
