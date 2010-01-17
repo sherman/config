@@ -1,0 +1,23 @@
+[user]
+	name = Denis M. Gabaidulin
+	email = gabaden@gmail.com
+
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+
+[alias]
+	ci = commit -a
+	di = diff
+	co = checkout
+	st = status
+
+[svn]
+	findcopiesharder = 1
+	rmdir = 1
+
+#[merge]
+#	log = 1
+#	summary = 1
+
