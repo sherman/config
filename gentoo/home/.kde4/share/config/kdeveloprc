@@ -1,0 +1,306 @@
+[Background Parser]
+Delay=1000
+
+[CodeGeneration]
+LastSelectedLicense=0
+
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[Favorite Profiles]
+Favorites=
+
+[GrepDialog]
+LastSearchItems=
+case_sens=true
+exclude_patterns=/CVS/\\,/SCCS/\\,/\\\\.svn/\\,/_darcs/\\,/build/
+no_find_errs=true
+recursive=true
+regexp=false
+search_project_files=false
+
+[KFileDialog Settings]
+Height 1024=450
+Recent Files[$e]=/var/www/phat.boo/phat/src/htdocs/var.php,$HOME/var3,$HOME/SBER_090901_091229.txt,$HOME/ROSN_090901_091229.txt,$HOME/HYDR_090901_091229.txt,$HOME/CHMF_090901_091229.txt,$HOME/GAZP_090901_091229.txt,$HOME/LKOH_090901_091229.txt,$HOME/LKOH_020401_090429.txt,$HOME/SBER_020401_090429.txt,$HOME/SBER_030401_030429.txt,$HOME/LKOH_030401_030429.txt,/media2/work/cpp/deviceatlas/client/php/example.php,/media2/work/wm/version/wmxi.php,/media2/work/wm/version/wmxiparser.php,/media2/work/wm/version/examples/_header.php
+Width 1280=700
+
+[Kate Document Defaults]
+Allow End of Line Detection=true
+Allow Simple Mode=true
+Backup Config Flags=0
+Backup Prefix=
+Backup Suffix=~
+Basic Config Flags=8912992
+Encoding=UTF-8
+End of Line=0
+Indentation Mode=normal
+Indentation Width=2
+PageUp/PageDown Moves Cursor=false
+ProberType for Encoding Autodetection=0
+Search Dir Config Depth=3
+Tab Handling=0
+Tab Width=4
+Word Wrap=false
+Word Wrap Column=80
+
+[Kate Renderer Defaults]
+Schema=kdevelop - Normal
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Word Wrap Marker=true
+
+[Kate View Defaults]
+Auto Center Lines=0
+Auto Completion=true
+Bookmark Menu Sorting=0
+Default Mark Type=1
+Dynamic Word Wrap=false
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap Indicators=1
+Folding Bar=false
+Line Numbers=true
+Persistent Selection=false
+Replacement Text History=
+Scroll Bar Marks=false
+Search Pattern History=
+Search/Replace Flags=140
+Vi Input Mode=false
+Vi Input Mode Hide Status Bar=false
+Vi Input Mode Steal Keys=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+
+[Main Window]
+Desktop 1280 1024=0,22,1280,964
+
+[MainWindow]
+Height 1024=1025
+State=AAAA/wAAAAD9AAAAAAAABQAAAAN2AAAABAAAAAQAAAABAAAAAvwAAAABAAAAAgAAAAQAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABkAGUAYgB1AGcAVABvAG8AbABCAGEAcgEAAAHV/////wAAAAAAAAAAAAAAIABxAHUAaQBjAGsATwBwAGUAbgBUAG8AbwBsAEIAYQByAQAAArf/////AAAAAAAAAAAAAAAsAEsARABlAHYAQwBvAGQAZQBiAHIAbwB3AHMAZQByAFQAbwBvAGwAQgBhAHIBAAADmP////8AAAAAAAAAAA==
+Width 1280=1281
+
+[MainWindow_code]
+Height 1024=964
+State=AAAA/wAAAAD9AAAAAAAABQAAAAN2AAAABAAAAAQAAAABAAAAAvwAAAABAAAAAgAAAAQAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABkAGUAYgB1AGcAVABvAG8AbABCAGEAcgEAAAEE/////wAAAAAAAAAAAAAAIABxAHUAaQBjAGsATwBwAGUAbgBUAG8AbwBsAEIAYQByAQAAArf/////AAAAAAAAAAAAAAAsAEsARABlAHYAQwBvAGQAZQBiAHIAbwB3AHMAZQByAFQAbwBvAGwAQgBhAHIBAAADmP////8AAAAAAAAAAA==
+Width 1280=1280
+
+[MainWindow_debug]
+Height 1024=1025
+State=AAAA/wAAAAD9AAAAAAAABQAAAAN2AAAABAAAAAQAAAABAAAAAvwAAAABAAAAAgAAAAQAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABkAGUAYgB1AGcAVABvAG8AbABCAGEAcgEAAAEE/////wAAAAAAAAAAAAAAIABxAHUAaQBjAGsATwBwAGUAbgBUAG8AbwBsAEIAYQByAQAAArf/////AAAAAAAAAAAAAAAsAEsARABlAHYAQwBvAGQAZQBiAHIAbwB3AHMAZQByAFQAbwBvAGwAQgBhAHIBAAADmP////8AAAAAAAAAAA==
+Width 1280=1281
+
+[MainWindow_review]
+Height 1024=1025
+State=AAAA/wAAAAD9AAAAAAAABQAAAAN2AAAABAAAAAQAAAABAAAAAvwAAAABAAAAAgAAAAQAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABkAGUAYgB1AGcAVABvAG8AbABCAGEAcgEAAAEE/////wAAAAAAAAAAAAAAIABxAHUAaQBjAGsATwBwAGUAbgBUAG8AbwBsAEIAYQByAQAAArf/////AAAAAAAAAAAAAAAsAEsARABlAHYAQwBvAGQAZQBiAHIAbwB3AHMAZQByAFQAbwBvAGwAQgBhAHIBAAADmP////8AAAAAAAAAAA==
+Width 1280=1281
+
+[Open File]
+Last Open File Directory=file:///media2/work/garmonbozia/hz/src/classes/PaymentRequest/
+
+[Open Project Dialog Settings]
+View Style=Simple
+
+[QuickOpen]
+SelectedItems=Classes
+SelectedScopes=Currently Open,Project,Includes,Includers
+
+[Recent Files]
+File1[$e]=/media2/work/wapstatistic/src/classes/DAOs/HourlyClientModelHitDAO.class.php
+File10[$e]=/media2/work/wapstatistic/src/classes/Statistic/Dimensions/BaseStatisticReportDimension.class.php
+File2[$e]=/media2/work/wapstatistic/src/classes/DAOs/DailyClientModelHitDAO.class.php
+File3[$e]=/media2/work/wapstatistic/src/classes/DAOs/HourlyHitDAO.class.php
+File4[$e]=/media2/work/wapstatistic/src/classes/DAOs/DailyCatalogStatisticDAO.class.php
+File5[$e]=/media2/work/wapstatistic/src/classes/DAOs/HourlyClientBrandHitDAO.class.php
+File6[$e]=/media2/work/wapstatistic/src/classes/DAOs/DailyHitDAO.class.php
+File7[$e]=/media2/work/wapstatistic/db/misc.sql
+File8[$e]=/media2/work/garmonbozia/hz/src/admin/m.php
+File9[$e]=/media2/work/wapstatistic/test/Statistic/StatisticObjectDaoTest.class.php
+Name1[$e]=HourlyClientModelHitDAO.class.php
+Name10[$e]=BaseStatisticReportDimension.class.php
+Name2[$e]=DailyClientModelHitDAO.class.php
+Name3[$e]=HourlyHitDAO.class.php
+Name4[$e]=DailyCatalogStatisticDAO.class.php
+Name5[$e]=HourlyClientBrandHitDAO.class.php
+Name6[$e]=DailyHitDAO.class.php
+Name7[$e]=misc.sql
+Name8[$e]=m.php
+Name9[$e]=StatisticObjectDaoTest.class.php
+
+[RecentProjects]
+File1[$e]=/media2/work/cpp/deviceatlas/deviceatlas.kdev4
+File10[$e]=/media2/work/garmonbozia/hz/hz.kdev4
+File2[$e]=$HOME/projects/sha1/sha1.kdev4
+File3[$e]=/media2/work/session_module/session_module.kdev4
+File4[$e]=/media2/work/wapstatistic/wapstat.kdev4
+File5[$e]=$HOME/projects/onphp/onphp.kdev4
+File6[$e]=/media2/work/finance/var/var.kdev4
+File7[$e]=/media2/work/phoneAtlas/phat.kdev4
+File8[$e]=/media2/work/garmonbozia/grlib/gr.kdev4
+File9[$e]=/media2/work/php/onphp-git/onPHP/onphp-1.0.kdev4
+Name1[$e]=deviceatlas.kdev4
+Name10[$e]=hz.kdev4
+Name2[$e]=sha1.kdev4
+Name3[$e]=session_module.kdev4
+Name4[$e]=wapstat.kdev4
+Name5[$e]=onphp.kdev4
+Name6[$e]=var.kdev4
+Name7[$e]=phat.kdev4
+Name8[$e]=gr.kdev4
+Name9[$e]=onphp-1.0.kdev4
+
+[Sessions]
+Active Session=default
+Active Session ID={f56f8570-7129-48eb-a6fa-ae3f43b863f3}
+
+[User Interface]
+Main Windows Count=1
+
+[User Interface][Main Window 0]
+currentArea=code
+
+[User Interface][Main Window 0][Area code]
+desired views=org.kdevelop.ClassBrowserView:1,org.kdevelop.ContextBrowser:8,org.kdevelop.DocumentationView:2,org.kdevelop.DocumentsView:1,org.kdevelop.FileManagerView:1,org.kdevelop.OutputView:8,org.kdevelop.ProjectsView:1
+id=code
+thickness bottom=-1
+thickness left=339
+thickness right=-1
+thickness top=-1
+view on bottom=
+view on left=org.kdevelop.ProjectsView
+view on right=
+view on top=
+working set=code_9009417
+
+[User Interface][Main Window 0][Area debug]
+desired views=org.kdevelop.DocumentationView:2,org.kdevelop.OutputView:8,org.kdevelop.ProjectsView:1,org.kdevelop.debugger.BreakpointsView:8,org.kdevelop.debugger.ConsoleView:8,org.kdevelop.debugger.StackView:8,org.kdevelop.debugger.VariablesView:1
+id=debug
+thickness bottom=-1
+thickness left=-1
+thickness right=-1
+thickness top=-1
+view on bottom=
+view on left=
+view on right=
+view on top=
+working set=
+
+[User Interface][Main Window 0][Area review]
+desired views=org.kdevelop.DocumentationView:2,org.kdevelop.OutputView:8,org.kdevelop.PatchReview:8,org.kdevelop.ProjectsView:1
+id=review
+thickness bottom=-1
+thickness left=-1
+thickness right=-1
+thickness top=-1
+view on bottom=
+view on left=
+view on right=
+view on top=
+working set=
+
+[User Interface][Main Window 0][Area test]
+View Count=0
+desired views=org.kdevelop.CoverageReport:2,org.kdevelop.DocumentationView:2,org.kdevelop.QTestTestRunner:2
+id=test
+thickness bottom=-1
+thickness left=-1
+thickness right=-1
+thickness top=-1
+view on bottom=
+view on left=
+view on right=
+view on top=
+
+[Working File Sets][code_1720628]
+View 0=file:///media2/work/garmonbozia/hz/misc/payment/webmoney.data.xml
+View 0 State=Cursor=82,7
+View 0 Type=Text
+View 1=file:///media2/work/garmonbozia/hz/src/classes/PaymentRequest/WmToExpensePaymentHandler.class.php
+View 1 State=Cursor=25,3
+View 1 Type=Text
+View 2=file:///media2/work/garmonbozia/hz/misc/payment/paymentHandler.php
+View 2 State=Cursor=5,28
+View 2 Type=Text
+View 3=file:///media2/work/garmonbozia/hz/src/classes/PaymentRequest/PaymentRequestHandlerRunner.class.php
+View 3 State=Cursor=22,41
+View 3 Type=Text
+View 4=file:///media2/work/garmonbozia/hz/src/controllers/admin/issueInvoice.class.php
+View 4 State=Cursor=76,19
+View 4 Type=Text
+View 5=file:///media2/work/garmonbozia/hz/src/classes/PaymentRequest/WebMoneyServiceStub.class.php
+View 5 State=Cursor=56,28
+View 5 Type=Text
+View 6=file:///media2/work/garmonbozia/hz/src/classes/PaymentRequest/WmInvoicePaymentHandler.class.php
+View 6 State=Cursor=26,3
+View 6 Type=Text
+View 7=file:///media2/work/garmonbozia/hz/src/classes/WebMoney/WebMoneyInvoiceRequest.class.php
+View 7 State=Cursor=46,0
+View 7 Type=Text
+View Count=8
+
+[Working File Sets][code_1804391]
+View 0=file:///media2/work/wapstatistic/src/controllers/user/editSite.class.php
+View 0 State=Cursor=17,17
+View 0 Type=Text
+View 1=file:///media2/work/wapstatistic/src/controllers/user/siteStatistic.class.php
+View 1 State=Cursor=43,52
+View 1 Type=Text
+View 2=file:///media2/work/wapstatistic/src/classes/Flow/RequestFilters/InitDataSetFilter.class.php
+View 2 State=Cursor=22,42
+View 2 Type=Text
+View Count=3
+persistent=true
+
+[Working File Sets][code_1822670]
+View 0=file:///media2/work/garmonbozia/hz/db/acl.sql
+View 0 State=Cursor=10,0
+View 0 Type=Text
+View 1=file:///media2/work/garmonbozia/hz/db/check.acl.sh
+View 1 State=Cursor=18,40
+View 1 Type=Text
+View 2=file:///media2/work/garmonbozia/hz/db/check.schema.sh
+View 2 State=Cursor=0,0
+View 2 Type=Text
+View 3=file:///media2/work/garmonbozia/hz/db/alters/1.3/alter02_sync_acl.sql
+View 3 Type=Text
+View Count=4
+persistent=true
+
+[Working File Sets][code_1935183]
+View 0=file:///media2/work/garmonbozia/hz/src/classes/ViewHelpers/Navigation/UrlHelper.class.php
+View 0 State=Cursor=7,2
+View 0 Type=Text
+View Count=1
+persistent=true
+
+[Working File Sets][code_5449419]
+View 0=file:///media2/work/wapstatistic/src/htdocs/test.php
+View 0 State=Cursor=134,3
+View 0 Type=Text
+View 1=file:///media2/work/php/onphp-git/onPHP/main/DataStructures/Vertex.class.php
+View 1 State=Cursor=0,0
+View 1 Type=Text
+View 2=file:///media2/work/php/onphp-git/onPHP/main/DataStructures/BaseGraph.class.php
+View 2 State=Cursor=69,0
+View 2 Type=Text
+View 3=file:///media2/work/php/onphp-git/onPHP/main/DataStructures/SimpleQueue.class.php
+View 3 State=Cursor=26,17
+View 3 Type=Text
+View 4=file:///media2/work/php/onphp-git/onPHP/main/DataStructures/SimpleStack.class.php
+View 4 State=Cursor=12,0
+View 4 Type=Text
+View 5=file:///media2/work/php/onphp-git/onPHP/main/DataStructures/SimpleGraph.class.php
+View 5 State=Cursor=18,41
+View 5 Type=Text
+View 6=file:///media2/work/task/task0.php
+View 6 State=Cursor=108,33
+View 6 Type=Text
+View 7=file:///media2/work/php/onphp-git/onPHP/main/DataStructures/SimpleVertex.class.php
+View 7 State=Cursor=18,19
+View 7 Type=Text
+View Count=8
+persistent=true
+
+[Working File Sets][code_8041171]
+View 0=file:///media2/work/garmonbozia/hz/misc/statistic/aggregator.php
+View 0 Type=Text
+View Count=1
+persistent=true
