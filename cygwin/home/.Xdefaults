@@ -1,0 +1,5 @@
+rxvt*foreground: white
+rxvt*background: black
+rxvt*saveLines: 10000
+
+rxvt.geometry: 152x50
