@@ -1,5 +1,7 @@
 rxvt*foreground: white
 rxvt*background: black
 rxvt*saveLines: 10000
-
+#rxvt*colorBD: 0
 rxvt.geometry: 152x50
+
+#Xft.antialias: false
