@@ -8,13 +8,16 @@ media-libs/amd64codecs
 #>=dev-python/sip-4.8
 
 
-=dev-lang/php-5.2.10*
-
-#dev-util/kdevelop-plugins
-dev-util/kdevelop
-dev-util/kdevplatform
+#dev-util/kdevelop
+#dev-util/kdevplatform
 
 media-video/kaffeine
 
 #app-emulation/virtualbox-bin
+
+#=www-client/google-chrome-bin-9999
+
+#kde-base/solid
+#kde-base/kdelibs
+#kde-base/kde-env
 

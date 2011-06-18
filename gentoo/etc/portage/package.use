@@ -19,20 +19,24 @@ media-libs/xine-lib  X alsa gtk ipv6 nls opengl oss win32codecs xinerama a52 aac
 
 media-video/mplayer X alsa -gif iconv -jpeg mmx mp3 opengl oss -png quicktime unicode win32codecs x264 xinerama xvid 3dnow 3dnowext a52 aac aalib -amrnb -amrwb -arts -bidi -bindist -bl cddb -cdio -cdparanoia cpudetection -custom-cflags -debug -dga -directfb -doc -dts -dv -dvb dvd -enca -encode -esd -fbcon -ftp -ggi -jack -joystick -ladspa -libcaca -lirc -live livecd -lzo -mad -md5sum -mmxext mp2 -musepack -nas -nemesi -openal -pnm -pulseaudio radio -rar -real -rtc -samba -sdl -speex -srt -sse -sse2 -ssse3 svga -teletext -tga -theora -tivo -truetype -v4l -v4l2 -vidix vorbis -xanim -xv -xvmc -zoran
 
-x11-libs/qt		dbus accessibility
-dev-util/subversion  apache2 -dso java -kde
+# move x11-libs/qt x11-libs/qt-meta
+x11-libs/qt-meta		dbus accessibility
+dev-vcs/subversion  apache2 -dso java -kde
 
-dev-util/git	subversion curl
+dev-vcs/git	subversion curl
 
 www-servers/apache	-threads
 
-media-sound/amarok	mtp musicbrainz
+media-sound/amarok	mtp musicbrainz embedded lastfm
 
 dev-libs/boost	doc tools mpi
 
 kde-base/kopete  crypt kdeenablefinal ssl xinerama addbookmarks -alias -arts -autoreplace connectionstatus -contactnotes -debug -gadu -groupwise -highlight history irc -jingle -kdehiddenvisibility -latex -netmeeting nowlistening -sametime -slp -sms statistics -texteffect -translator -webpresence -winpopup -xscreensaver -yahoo oscar
 
-app-text/poppler-bindings	qt3
+
+kde-base/kdelibs semantic-desktop
+
+app-text/poppler qt4
 
 net-p2p/amule	gtk
 
@@ -64,13 +68,12 @@ www-plugins/adobe-flash	-32bit
 
 app-editors/emacs  X alsa gif jpeg png xpm source spell gtk
 
-dev-db/mysql	embedded
 
 app-editors/jedit	doc
 
 dev-util/netbeans
 
-dev-util/eclipse-sdk 
+dev-util/eclipse-sdk	java6 
 dev-java/eclipse-ecj	
 
 x11-libs/qscintilla qt4
@@ -86,3 +89,26 @@ x11-libs/cairo svg
 www-client/opera qt-static
 virtual/poppler lcms
 net-misc/curl openssl
+dev-java/hibernate doc source
+
+dev-db/sqlite -secure-delete
+
+dev-db/postgresql-base pg_legacytimestamp
+dev-db/postgresql-server pg_legacytimestamp
+
+media-libs/libgphoto2 hal fuji
+sys-fs/udev extras
+
+dev-libs/libaio multilib
+
+net-print/cups gnutls
+
+media-libs/gd fontconfig truetype
+dev-lang/scala source
+
+dev-libs/libgpg-error static-libs
+
+#dev-db/mariadb embedded minimal
+virtual/mysql embedded
+dev-db/mysql embedded
+
