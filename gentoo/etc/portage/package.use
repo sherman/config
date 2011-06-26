@@ -34,7 +34,8 @@ dev-libs/boost	doc tools mpi
 kde-base/kopete  crypt kdeenablefinal ssl xinerama addbookmarks -alias -arts -autoreplace connectionstatus -contactnotes -debug -gadu -groupwise -highlight history irc -jingle -kdehiddenvisibility -latex -netmeeting nowlistening -sametime -slp -sms statistics -texteffect -translator -webpresence -winpopup -xscreensaver -yahoo oscar
 
 
-kde-base/kdelibs semantic-desktop
+#kde-base/kdelibs semantic-desktop
+#kde-base/kdepimlibs semantic-desktop
 
 app-text/poppler qt4
 
@@ -59,7 +60,7 @@ app-cdr/k3b dvd sndfile
 
 x11-libs/qt-sql	mysql
 
-dev-python/PyQt4 webkit
+dev-python/PyQt4 webkit declarative
 dev-python/qscintilla-python	qt4
 
 x11-libs/qt-gui	mng
@@ -68,21 +69,12 @@ www-plugins/adobe-flash	-32bit
 
 app-editors/emacs  X alsa gif jpeg png xpm source spell gtk
 
-
-app-editors/jedit	doc
-
 dev-util/netbeans
-
-dev-util/eclipse-sdk	java6 
-dev-java/eclipse-ecj	
 
 x11-libs/qscintilla qt4
 x11-libs/cairo svg
 
 sys-devel/gcc 	libffi gcj
-#x11-libs/qt-core qt3support
-#x11-libs/qt-gui qt3support
-#x11-libs/qt-sql qt3support
 dev-python/PyQt4 svg
 dev-python/PyQt4 sql
 x11-libs/cairo svg
@@ -112,3 +104,8 @@ dev-libs/libgpg-error static-libs
 virtual/mysql embedded
 dev-db/mysql embedded
 
+sys-block/parted device-mapper
+
+media-libs/libpng apng
+
+sys-auth/consolekit policykit

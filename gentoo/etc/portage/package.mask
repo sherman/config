@@ -1,54 +1,10 @@
 app-emulation/wine
 
-#kde-base/kdelibs
-
 dev-db/libpq
-
-#x11-drivers/nvidia-drivers
-#x11-base/xorg-server
-#app-office/openoffice
-
-#dev-lang/php
-
-
-dev-scheme/mit-scheme-c
-
-www-servers/apache
-
-dev-lang/ghc
-#net-nds/openldap
-
-#www-client/opera
-
-#dev-db/mysql
-#virtual/mysql
-
-#dev-db/postgresql-base
-#dev-db/postgresql-server
-#dev-lang/php
-
-#sys-devel/gcc
 
 dev-java/lucene
 
-=dev-util/kdevelop-9999
-=dev-util/kdevplatform-9999
-
-net-p2p/ktorrent
-
-#sys-devel/libtool
-
-#dev-libs/redland
-#sys-auth/polkit
-#sys-auth/consolekit
-#sys-apps/hal
 media-gfx/gimp
 
-
-
-media-libs/mesa
-
-sys-auth/policykit
-
-dev-python/qscintilla-python
 x11-drivers/nvidia-drivers
+x11-base/xorg-server
