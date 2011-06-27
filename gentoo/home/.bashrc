@@ -19,7 +19,7 @@ alias eclipse="GDK_NATIVE_WINDOWS=true /media2/apps/eclipse-j2ee/eclipse/eclipse
 export TEMP=/tmp/
 
 MONO_BASE=/media2/apps/f#/FSharp-2.0.0.0
-export MONO_PATH=$MONO_BASE/:$MONO_PATH
+export MONO_PATH=$MONO_BASE
 export PATH=$MONO_BASE/bin/:$PATH
 
 
