@@ -16,8 +16,8 @@ HISTCONTROL=ignoreboth
 shopt -s histappend
 
 # for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
-HISTSIZE=10000
-HISTFILESIZE=10000
+HISTSIZE=1000000
+HISTFILESIZE=1000000
 
 # check the window size after each command and, if necessary,
 # update the values of LINES and COLUMNS.
@@ -131,5 +131,6 @@ export LC_ALL=en_US.utf8
 export EDITOR=vim
 
 export JAVA_HOME=/usr/lib/jvm/java-8-oracle/
+#export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64/
 
 alias mw="curl -4 'wttr.in/moscow'"
