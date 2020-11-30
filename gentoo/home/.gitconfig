@@ -21,3 +21,9 @@
 #	log = 1
 #	summary = 1
 
+[includeIf "gitdir:~/work/o2-master-shard/"]
+	path = ~/config/ozon/.gitconfig
+
+[includeIf "gitdir:~/work/o2-dump-loader/"]
+	path = ~/config/ozon/.gitconfig
+
