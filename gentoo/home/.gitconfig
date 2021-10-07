@@ -24,6 +24,34 @@
 [includeIf "gitdir:~/work/o2-master-shard/"]
 	path = ~/config/ozon/.gitconfig
 
+[includeIf "gitdir:~/work/old-master/"]
+        path = ~/config/ozon/.gitconfig
+
 [includeIf "gitdir:~/work/o2-dump-loader/"]
 	path = ~/config/ozon/.gitconfig
+
+[includeIf "gitdir:~/work/java-platform/"]
+	path = ~/config/ozon/.gitconfig
+
+[includeIf "gitdir:~/work/midway-search-api/"]
+	path = ~/config/ozon/.gitconfig
+
+[includeIf "gitdir:~/work/lucene-search-server/"]
+	path = ~/config/ozon/.gitconfig
+
+[includeIf "gitdir:~/work/search-api/"]
+	path = ~/config/ozon/.gitconfig
+
+[includeIf "gitdir:~/work/search-lib/"]
+	path = ~/config/ozon/.gitconfig
+
+[includeIf "gitdir:~/work/search-lib-artem/"]
+	path = ~/config/ozon/.gitconfig
+
+[includeIf "gitdir:~/work/o2-debug-tool/"]
+	path = ~/config/ozon/.gitconfig
+
+[includeIf "gitdir:~/work/basic-deploy/"]
+	path = ~/config/ozon/.gitconfig
+
 
