@@ -130,7 +130,30 @@ export LC_ALL=en_US.UTF-8
 
 export EDITOR=vim
 
-export JAVA_HOME=/usr/lib/jvm/java-8-oracle/
-#export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64/
-
 alias mw="curl -4 'wttr.in/moscow'"
+
+MAVEN_PATH="/home/sherman/apps/maven/apache-maven-3.8.1/bin"
+
+export PATH="${KREW_ROOT:-$HOME/.krew}/bin:$MAVEN_PATH:$PATH"
+
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
+if command -v pyenv 1>/dev/null 2>&1; then
+ eval "$(pyenv init -)"
+fi
+
+export GOROOT=/snap/go/current
+export GOPATH=~/go
+export PATH=$PATH:$GOROOT/bin:$GOPATH/bin:/home/sherman/.local/bin
+. "$HOME/.cargo/env"
+
+export PGGSSENCMODE=disable
+
+export KUBECONFIG=~/.kube/config:~/.kube/aws_config.stage:~/.kube/aws_config.prod
+
+alias cctl="~/.cloud/cctl -l -n 01tech"
+
+#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
+export SDKMAN_DIR="$HOME/.sdkman"
+[[ -s "$HOME/.sdkman/bin/sdkman-init.sh" ]] && source "$HOME/.sdkman/bin/sdkman-init.sh"
+
